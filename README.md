@@ -1,3 +1,5 @@
+## Flatten function
+
 In order to run the spec, do
 
 ```
